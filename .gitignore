@@ -1,0 +1,6 @@
+.password
+data/
+src/
+build-plain.html
+node_modules/
+.staticrypt.json
